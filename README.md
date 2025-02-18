@@ -1,9 +1,9 @@
+![Логотип](logo.png)
+
 # Car in Bulgaria / Wiki / Guide
 
-Table of Contents
-=================
+## Table of Contents
 
-* [Car in Bulgaria / Wiki / Guide](#car-in-bulgaria--wiki--guide)
 * [Где покупать, плюсы и минусы](#где-покупать-плюсы-и-минусы)
 * [Технический осмотр](#технический-осмотр)
 * [Водительские права](#водительские-права)
